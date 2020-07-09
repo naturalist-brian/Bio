@@ -1,0 +1,9 @@
+
+.history{border-style: dotted; width: 40vw; margin: auto;}
+section{text-align: center;}
+header{text-align: center; font-size: 2em;}
+footer{text-align: center;}
+body{background-color: grey;}
+#bio{width: 50vw; margin: auto; border-style: double; text-align: center;}
+#lang{display: flex; flex-wrap: wrap; justify-content: center; border-style: solid; width: 15vw; margin: auto;}
+#work{margin: 40px;} 
